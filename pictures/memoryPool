@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T12:13:41.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="17.1.2" etag="eMU_UDfjq2pFiyrDxcCp" type="github"><diagram id="NB8gJ-DAjweddydSjFte">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-14T12:17:17.750Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="A-JrM8O0piu_Tz-Y-7ut" version="17.1.2" type="github">
+  <diagram id="NB8gJ-DAjweddydSjFte" name="Page-1">
+    <mxGraphModel dx="1426" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5xguRO25MFPO0nKRwlis-1" value="Reserved Memory" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="480" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5xguRO25MFPO0nKRwlis-2" value="Cache Memory" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5xguRO25MFPO0nKRwlis-3" value="&lt;font color=&quot;#ffffff&quot;&gt;Execution Memory&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="120" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
