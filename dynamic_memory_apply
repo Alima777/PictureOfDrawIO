@@ -1,17 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-03-27T07:12:46.747Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="nLb1UvDGWDn55UKm04OQ" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T06:21:15.668Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="7NhqWjS70DWzkyoq1u88" version="17.2.4" type="github">
   <diagram id="lv95JC7NubDEiAg58CUq" name="Page-1">
-    <mxGraphModel dx="1186" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KND5HZ0FwIonRLnZk22r-1" value="Query1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="KND5HZ0FwIonRLnZk22r-1" value="Task1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#FA3B2D;strokeColor=#ae4132;fontStyle=1;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="244" y="220" width="80" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="KND5HZ0FwIonRLnZk22r-4" value="Query2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="uc0NOyKVr-rGFNW-PTvl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="KND5HZ0FwIonRLnZk22r-4" target="KND5HZ0FwIonRLnZk22r-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KND5HZ0FwIonRLnZk22r-4" value="Task2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#0074E8;strokeColor=#10739e;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="324" y="220" width="180" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="KND5HZ0FwIonRLnZk22r-5" value="Free Memory" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="KND5HZ0FwIonRLnZk22r-5" value="Free Memory" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="504" y="220" width="180" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="uc0NOyKVr-rGFNW-PTvl-2" value="&lt;font style=&quot;font-size: 21px&quot;&gt;Each task applies for the memory it needs&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="410" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
